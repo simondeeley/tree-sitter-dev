@@ -1,0 +1,2 @@
+# Include .envrc as it's often excluded by default
+!.envrc
